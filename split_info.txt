@@ -10,6 +10,7 @@ Microsoft.PowerToys.0.95.1.rar|https://raw.githubusercontent.com/voidsuspended/d
 Microsoft.PowerToys.0.95.1.rar|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.z01|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.z02|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.z03|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.z04|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.z05|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.z06|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.z07
 6527828419_1.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/6527828419_1.mp3
 9q4qdnaHUpNXvphP7uz6+jYJGGweNsbk.m4a|https://raw.githubusercontent.com/voidsuspended/download/main/9q4qdnaHUpNXvphP7uz6+jYJGGweNsbk.m4a
+Amir_Tataloo.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/Amir_Tataloo.mp3
 Microsoft.PowerToys.0.95.1.rar.zip|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.zip
 Roozhaye_Bi_Gharar.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/Roozhaye_Bi_Gharar.mp3
 We_wake_up_with_the_weight_of_yesterday.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/We_wake_up_with_the_weight_of_yesterday.mp3
