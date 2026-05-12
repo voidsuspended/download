@@ -20,6 +20,7 @@ Microsoft.PowerToys.0.95.1.rar.zip|
 Akharin_Anar_-_Naaji.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/Akharin_Anar_-_Naaji.mp3
 Amir_Tataloo.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/Amir_Tataloo.mp3
 AvaarRemix-128.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/AvaarRemix-128.mp3
+G9KeTz4t7OgAyLFjvmUx+trh_IfvGwAE.m4a|https://raw.githubusercontent.com/voidsuspended/download/main/G9KeTz4t7OgAyLFjvmUx+trh_IfvGwAE.m4a
 KEVlHsQLjexqcCMG.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/KEVlHsQLjexqcCMG.mp3
 Microsoft.PowerToys.0.95.1.rar.zip|https://raw.githubusercontent.com/voidsuspended/download/main/Microsoft.PowerToys.0.95.1.rar.zip
 Roozhaye_Bi_Gharar.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/Roozhaye_Bi_Gharar.mp3
