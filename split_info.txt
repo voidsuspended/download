@@ -38,9 +38,9 @@ gh_2.92.0_windows_amd64.msi|https://raw.githubusercontent.com/voidsuspended/down
 mMnFrshS96Fbyh7cHpIO+djQlVN1fIX0.mp4|https://raw.githubusercontent.com/voidsuspended/download/main/mMnFrshS96Fbyh7cHpIO+djQlVN1fIX0.mp4
 ma_yademoon_nemire.mp3|https://raw.githubusercontent.com/voidsuspended/download/main/ma_yademoon_nemire.mp3
 mhrv-rs-android-arm64-v8a-v1.9.19.apk|https://raw.githubusercontent.com/voidsuspended/download/main/mhrv-rs-android-arm64-v8a-v1.9.19.apk
+mhrv-rs-android-armeabi-v7a-v1.9.24.apk|https://raw.githubusercontent.com/voidsuspended/download/main/mhrv-rs-android-armeabi-v7a-v1.9.24.apk
 pop_x_rap.mp4|https://raw.githubusercontent.com/voidsuspended/download/main/pop_x_rap.mp4
 sIvbvpjZnRyBucxnIEpM+TaEWX_HoA3s.m4a|https://raw.githubusercontent.com/voidsuspended/download/main/sIvbvpjZnRyBucxnIEpM+TaEWX_HoA3s.m4a
-video-2026-05-13_05-55-11.mp4|https://raw.githubusercontent.com/voidsuspended/download/main/video-2026-05-13_05-55-11.mp4
 video.mp4|https://raw.githubusercontent.com/voidsuspended/download/main/video.mp4
 watch|https://raw.githubusercontent.com/voidsuspended/download/main/watch
 نهم_ترم۱دی۴۰۴باپاسخ_(riazicafe@).pdf|https://raw.githubusercontent.com/voidsuspended/download/main/نهم_ترم۱دی۴۰۴باپاسخ_(riazicafe@).pdf
