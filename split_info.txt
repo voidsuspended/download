@@ -41,6 +41,7 @@ mhrv-rs-android-arm64-v8a-v1.9.19.apk|https://raw.githubusercontent.com/voidsusp
 mhrv-rs-android-armeabi-v7a-v1.9.24.apk|https://raw.githubusercontent.com/voidsuspended/download/main/mhrv-rs-android-armeabi-v7a-v1.9.24.apk
 pop_x_rap.mp4|https://raw.githubusercontent.com/voidsuspended/download/main/pop_x_rap.mp4
 sIvbvpjZnRyBucxnIEpM+TaEWX_HoA3s.m4a|https://raw.githubusercontent.com/voidsuspended/download/main/sIvbvpjZnRyBucxnIEpM+TaEWX_HoA3s.m4a
+v2rayNG_2.1.7-fdroid_armeabi-v7a.apk|https://raw.githubusercontent.com/voidsuspended/download/main/v2rayNG_2.1.7-fdroid_armeabi-v7a.apk
 video-2026-05-14_05-33-54.mp4|https://raw.githubusercontent.com/voidsuspended/download/main/video-2026-05-14_05-33-54.mp4
 video.mp4|https://raw.githubusercontent.com/voidsuspended/download/main/video.mp4
 watch|https://raw.githubusercontent.com/voidsuspended/download/main/watch
